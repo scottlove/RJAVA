@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JRI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../R/win-library/3.0/rJava/jri/JRI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../R/win-library/3.0/rJava/jri/JRIEngine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../R/win-library/3.0/rJava/jri/REngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

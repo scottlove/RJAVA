@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RJAVA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RJAVA_jar</output-path>
+    <root id="archive" name="RJAVA.jar">
+      <element id="module-output" name="RJAVA" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../R/win-library/3.0/rJava/jri/JRI.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../R/win-library/3.0/rJava/jri/JRIEngine.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../R/win-library/3.0/rJava/jri/REngine.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
